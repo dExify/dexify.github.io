@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dexify
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dxfy.xyz
+  * I am dexify (https://keybase.io/dexify) on keybase.
+  * I have a public key ASDGUoWUNbaIv7-dMeRGuOZaX_N2kmPieVjs5apGAUgASgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c652859435b688bfbf9d31e446b8e65a5ff3769263e27958ece5aa460148004a0a",
+      "host": "keybase.io",
+      "kid": "0120c652859435b688bfbf9d31e446b8e65a5ff3769263e27958ece5aa460148004a0a",
+      "uid": "00c210156e42fbb38c6724c17d5ab219",
+      "username": "dexify"
+    },
+    "merkle_root": {
+      "ctime": 1547409419,
+      "hash": "42e666a4c46779258b81d96c1a2ef08edad4d8a73043b283cd10a82c0da27911b36233bd08e25b00a6450df9c6ebe7a8049ad6efd3b805ab7636f5dc82c338b4",
+      "hash_meta": "0f37a19412665b5ebc38714505b8e808026ffc00d4af00814e9ae65c89e06614",
+      "seqno": 4371873
+    },
+    "service": {
+      "entropy": "YXF2trfAlEOjT8XTOQplpiqM",
+      "hostname": "dxfy.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.12.3"
+  },
+  "ctime": 1547409428,
+  "expire_in": 504576000,
+  "prev": "7724fbb5f2e5a0175ac77998783a34f78c8027d1dcade28a53c8f31ed7ec3cf7",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxlKFlDW2iL+/nTHkRrjmWl/zdpJj4nlY7OWqRgFIAEoKp3BheWxvYWTESpcCFcQgdyT7tfLloBdax3mYeDo094yAJ9HcreKKU8jzHtfsPPfEICS1YfdkGSFYOigCkvllFE7iga673gLQMIsOXl1jLaBaAgHCo3NpZ8RAIN2YR0LaOwxrjPckCqkhQqfhAzsrPjGaDALvGzfCZ2rt1hSISSeQcsgDlt591pi1VTo0HcjhL23h7PGru6uzDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMtr7be16Mm6URaoP2xFbUfzd73ztfn74qBUMjKdUIj5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dexify
+
+==================================================================
