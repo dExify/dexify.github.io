@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300');
+body {
+  background: url('../img/bg.png');
+}
+.dex {
+  display: inline-block;
+  position: absolute;
+  width: 56px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 62px;
+  font-family:'Josefin Sans', sans-serif;
+  color: #fff;
+  cursor: pointer;
+}
+.dex::before,
+.dex::after {
+  position: absolute;
+  transition: 0.4s ease;
+  opacity: 0;
+  pointer-events: none;
+}
+.dex:before {
+  content: "D \00a0 \00a0 \00a0 \00a0 \00a0";
+  top: -60px;
+  left: -80%;
+  width: 215px;
+}
+.dex:after {
+  content: "X";
+  top: 50px;
+  left: 96%;
+}
+.dex:hover::before,
+.dex:hover::after {
+  top: -4.3px;
+  opacity: 1;
+  transition: 0.2s ease, opacity 0.17s 0.03s ease-in;
+}
+
+.denstreken {
+  width: 80%;
+  height: 3px;
+  background: white;
+  margin: 0 auto 18px;
+  transition: transform 0.4s ease;
+}
+
+/*.dex:hover .bar {*/
+/*  transform: rotate(-10deg);*/
+/*}*/
